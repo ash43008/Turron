@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hourglass Dog Without Glass
+* source:	https://sketchfab.com/3d-models/hourglass-dog-without-glass-6e03a6aeb4994e0daa2d08a23be1553d
+* author:	Utu-Nui (https://sketchfab.com/utu_nui)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hourglass Dog Without Glass" (https://sketchfab.com/3d-models/hourglass-dog-without-glass-6e03a6aeb4994e0daa2d08a23be1553d) by Utu-Nui (https://sketchfab.com/utu_nui) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Turrón - From ENA
+* source:	https://sketchfab.com/3d-models/turron-from-ena-9443fa92d15c4f4ebd33f1b2aca2314f
+* author:	Utu-Nui (https://sketchfab.com/utu_nui)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Turrón - From ENA" (https://sketchfab.com/3d-models/turron-from-ena-9443fa92d15c4f4ebd33f1b2aca2314f) by Utu-Nui (https://sketchfab.com/utu_nui) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

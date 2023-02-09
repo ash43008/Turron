@@ -1,0 +1,11 @@
+Model Information:
+* title:	Moony 3D Model
+* source:	https://sketchfab.com/3d-models/moony-3d-model-f58b1e8cae6d415ab8a0342d1b7b6c00
+* author:	Utu-Nui (https://sketchfab.com/utu_nui)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Moony 3D Model" (https://sketchfab.com/3d-models/moony-3d-model-f58b1e8cae6d415ab8a0342d1b7b6c00) by Utu-Nui (https://sketchfab.com/utu_nui) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
